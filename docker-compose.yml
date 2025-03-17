@@ -1,0 +1,12 @@
+version: "3"
+services:
+  pyd-service:
+    image: postgres
+    restart: always
+    container_name: pyd-service-local
+    environment:
+      POSTGRES_USER: "postgres"
+      POSTGRES_DB: "pyd-server"
+      POSTGRES_PASSWORD: "123456"
+    ports:
+      - 15432:5432

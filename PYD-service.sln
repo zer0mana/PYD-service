@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PYD-service", "PYD-service\PYD-service.csproj", "{AAC1DE26-4C3A-437E-B866-75F04DCADB9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PYD-service-BLL-1", "PYD-service-BLL-1\PYD-service-BLL-1.csproj", "{92EF821E-0658-49BD-B7C1-2C1D4009C7BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PYD-service-DAL", "PYD-service-DAL\PYD-service-DAL.csproj", "{0EBFA5F6-A955-413B-93E5-BCE9CF19C92D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PYD-service-BLL", "PYD-service-BLL\PYD-service-BLL.csproj", "{532D16CF-503E-4115-B450-BDB7D35D76EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAC1DE26-4C3A-437E-B866-75F04DCADB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC1DE26-4C3A-437E-B866-75F04DCADB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC1DE26-4C3A-437E-B866-75F04DCADB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC1DE26-4C3A-437E-B866-75F04DCADB9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92EF821E-0658-49BD-B7C1-2C1D4009C7BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EF821E-0658-49BD-B7C1-2C1D4009C7BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EF821E-0658-49BD-B7C1-2C1D4009C7BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EF821E-0658-49BD-B7C1-2C1D4009C7BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EBFA5F6-A955-413B-93E5-BCE9CF19C92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EBFA5F6-A955-413B-93E5-BCE9CF19C92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EBFA5F6-A955-413B-93E5-BCE9CF19C92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EBFA5F6-A955-413B-93E5-BCE9CF19C92D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{532D16CF-503E-4115-B450-BDB7D35D76EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532D16CF-503E-4115-B450-BDB7D35D76EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532D16CF-503E-4115-B450-BDB7D35D76EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532D16CF-503E-4115-B450-BDB7D35D76EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

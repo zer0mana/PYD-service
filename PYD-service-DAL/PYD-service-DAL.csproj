@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <RootNamespace>PYD_service_DAL</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="FluentMigrator" Version="6.2.0" />
+      <PackageReference Include="FluentMigrator.Runner" Version="6.2.0" />
+      <PackageReference Include="linq2db" Version="6.0.0-preview.3" />
+      <PackageReference Include="linq2db.EntityFrameworkCore" Version="9.1.0-preview.3" />
+      <PackageReference Include="Npgsql" Version="9.0.3" />
+    </ItemGroup>
+
+</Project>
